@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://maxifi.com.tr">
-    <img src="https://hub.maxifi.com.tr/uploads/mainImage/logo/maxifi-logo-mavi.png" alt="Typing SVG" />
+    <img width="200" src="https://hub.maxifi.com.tr/uploads/mainImage/logo/maxifi-logo-mavi.png" alt="Maxifi Logo" />
   </a>
 </p>
 
