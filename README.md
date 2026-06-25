@@ -32,16 +32,6 @@ Güçlü altyapılar, modern arayüzler ve yenilikçi yazılım çözümleriyle 
   <img src="https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white" alt="Bitbucket" />
 </p>
 
-### 📈 Şirket & Geliştirme İstatistikleri
-<p align="center">
-  <a href="https://github.com/FarukKayabas">
-    <img src="https://github-readme-stats.vercel.app/api?username=FarukKayabas&show_icons=true&theme=radium&hide_border=true&v=2" alt="Maxifi GitHub Stats" width="48%" />
-  </a>
-  <a href="https://github.com/FarukKayabas">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FarukKayabas&layout=compact&theme=radium&hide_border=true&v=2" alt="Top Languages" width="48%" />
-  </a>
-</p>
-
 ---
 
 <h3 align="center">🌐 Bize Ulaşın</h3>
