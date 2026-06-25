@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://maxifi.com.tr">
-    <img width="200" src="https://hub.maxifi.com.tr/uploads/mainImage/logo/maxifi-logo-mavi.png" alt="Maxifi Logo" />
+    <img width="250" src="https://hub.maxifi.com.tr/uploads/mainImage/logo/maxifi-logo-mavi.png" alt="Maxifi Logo" />
   </a>
 </p>
 
@@ -13,9 +13,9 @@
 Güçlü altyapılar, modern arayüzler ve yenilikçi yazılım çözümleriyle dijital dönüşümün merkezindeyiz. Kapsamlı sunucu altyapıları yönetiyor, yazılım ve donanım haberleşmesinde uçtan uca çözümler üretiyoruz. Temel hedefimiz; karmaşık iş süreçlerini, geliştirdiğimiz güvenilir araçlarla basitleştirmek ve operasyonel verimliliği maksimize etmektir.
 
 ### 🌟 MAXIFI Ekosistemi
-- 🏗️ **Maxifi Builder:** Dinamik ve esnek proje yapılandırmaları için geliştirdiğimiz temel inşa modülümüz.
+- 🏗️ **Maxifi Builder:** Kurumsal web siteleri ve e-ticaret platformları oluşturmak için geliştirdiğimiz, güçlü ve esnek web sitesi oluşturma aracımız.
 - ⏱️ **Maxifi Puantaj:** Personel takip, vardiya ve zaman yönetimini yüksek performansla kusursuz hale getiren sistemimiz.
-- 👁️ **Maxifi Gözlem:** Anlık izleme, veri analizi ve gelişmiş raporlama sunan monitörizasyon çözümümüz. Güvenlik ve alarm sistemleriyle tam entegredir.
+- 👁️ **Maxifi Gözlem:** Gelişmiş alarm izleme ve network (ağ) takip yazılımımız. Güvenlik panelleri ve ağ altyapınızın anlık olarak izlenmesini, yönetilmesini ve olay kodlarının ayrıştırılmasını sağlar.
 - 🌡️ **Maxifi Thermo:** Kritik alanların ısı takibi, loglaması ve iklimlendirme süreçlerinin dijital kontrol noktası.
 - 📊 **Maxifi ERP:** Şirket içi tüm kaynakların, iş akışlarının ve süreçlerin tek bir merkezden yönetildiği kurumsal planlama platformumuz.
 - 🚪 **Maxifi Kapı:** Geçiş kontrol sistemleri, yetkilendirme ve güvenlik bariyerlerinin akıllı yönetim aracı.
