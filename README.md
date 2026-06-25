@@ -36,6 +36,6 @@ Güçlü altyapılar, modern arayüzler ve yenilikçi yazılım çözümleriyle 
 
 <h3 align="center">🌐 Bize Ulaşın</h3>
 <p align="center">
-  <a href="https://maxifi.com.tr"><img src="https://img.shields.io/badge/Web_Sitemiz-maxifi.com.tr-2196F3?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" /></a>
-  <a href="mailto:info@maxifi.com.tr"><img src="https://img.shields.io/badge/Email-info%40maxifi.com.tr-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://maxifi.com.tr"><img src="https://img.shields.io/badge/Web_Sitemiz-maxifi.com.tr-2196F3?style=flat-square&logo=google-chrome&logoColor=white" alt="Website" /></a>
+  <a href="mailto:info@maxifi.com.tr"><img src="https://img.shields.io/badge/Email-info%40maxifi.com.tr-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
