@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://maxifi.com.tr">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2196F3&center=true&vCenter=true&width=550&lines=Yenilikçi+SaaS+Çözümleri;Gelişmiş+IoT+%26+Donanım+Entegrasyonları;Güvenli,+Hızlı+ve+Ölçeklenebilir+Altyapı" alt="Typing SVG" />
+    <img src="https://hub.maxifi.com.tr/uploads/mainImage/logo/maxifi-logo-mavi.png" alt="Typing SVG" />
   </a>
 </p>
 
